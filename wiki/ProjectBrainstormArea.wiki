@@ -1,0 +1,5 @@
+#summary Project brainstorm area is for us to come up with what we want to investigate, what we want to design and implement.
+
+= Introduction =
+
+= Details =
